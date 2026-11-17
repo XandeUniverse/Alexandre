@@ -1,0 +1,156 @@
+body{
+
+  margin: 0px;
+  scroll-behavior: smooth;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header{
+
+  background-color: #048e0f;
+}
+
+#titulo{
+
+  margin: 0px;
+  text-align: center;
+}
+
+#secao_1{
+
+  align-items: center;
+  background-color: #de041e;
+  background-image: linear-gradient(to bottom, #714541, #bba8fe);
+  color: #c3e905;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0px;
+}
+
+#titulo_2{
+
+  font-size: 3.8vw;
+}
+
+#img1{
+
+  border-radius: 67px;
+  box-shadow: 13px 14px 67px 24px rgb(173, 100, 251);
+  width: 100%;
+  height: auto;
+}
+
+#secao_2{
+
+  align-items: center;
+  background-color: #2803f8;
+  background-image: linear-gradient(to bottom, #fc05d7, #802E42);
+  color: #916570;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0px;
+}
+
+#img2{
+
+  border-radius: 67px;
+  box-shadow: 2px 2px 20px 2px red;
+  width: 100%;
+  height: auto;
+}
+
+#titulo_3{
+
+  text-align: center;
+  font-size: 3.8vw;
+}
+
+#secao_3{
+
+  background-color: #05fac1;
+  background-image: linear-gradient(to bottom, #802E42, #0af212);
+  color: #f040f9;
+  text-align: left;
+}
+
+#secao_3_1{
+
+  align-items: left;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+}
+
+#titulo_4{
+
+  font-size: 3.8vw;
+  margin: 0;
+}
+
+#titulo_4_1, #titulo_4_2, #titulo_4_3{
+
+  font-size: 2.0vw;
+  margin: 0px;
+}
+
+#img3{
+
+  border-radius: 67px;
+  box-shadow: 2px 2px 20px 2px red;
+  width: 500px;
+  height: auto;
+}
+
+#secao_4{
+
+  display: flex;
+  justify-content: right;
+}
+
+#img4{
+
+  border-radius: 67px;
+  box-shadow: 2px 2px 20px 2px red;
+  width: 100%;
+  height: auto;
+}
+
+#menu_secundario{
+
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#secao_5{
+
+  align-items: center;
+  color: #0723f7;
+  display: flex;
+  flex-direction: column-reverse;
+  margin: 0px;
+}
+
+#secao_6{
+
+  align-items: center;
+  color: #840386;
+  display: flex;
+  flex-direction: column-reverse;
+  margin: 0px;
+}
+
+#titulo_5, #titulo_6{
+
+  font-size: 2.0px;
+}
+
+#p1{
+
+  font-size: 1.4vw;
+  text-align: justify;
+}
+
+#p2, #p3, #p4, #p5, #p6, #p7{
+
+  font-size: 1.0vw;
+}
